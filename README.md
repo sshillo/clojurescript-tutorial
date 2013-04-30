@@ -1,6 +1,6 @@
 # modern-cljs
 
-A Clojure library designed to ... well, that part is up to you.
+Going through this tutorial https://github.com/magomimmo/modern-cljs
 
 ## Usage
 
